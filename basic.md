@@ -122,6 +122,26 @@ and comma(,) for multiple interfaces.
 - interfaces are also use to achieve multiple inheritance in java.
 - if you want to create method that have body in interface , you can achieve that by using default , static and private keyword.
 - if you want to extends and also implement , you must extends first and then implements.
+
+
+* Polymorphism:
+
+		Polymorphism is an important concept of oop , and it simply mean more than one form.
+		that is , the same entity (method or operator or object) can perform different operation in different scenarios.
+	Why polymorphism?
+- polymorphism allow us to write consistent code. and we can achieve polymorphism in java by using this following way:
+	- method overriding(inheritance)
+	- method Overloading
+	- operator Overloading
+
+* Encapsulation :
+ 
+	Encapsulation is a way to package your relevant code in the same class , and it will make our code cleaner and easy to read.
+	- if you want to hide data in Encapsulation , we can achieve that by using setter and getter methods.
+	
+
+
+
  
 
 
