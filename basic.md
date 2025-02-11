@@ -92,7 +92,7 @@ but it is not common to start the variable name with symbol. The common start wi
 	- method overriding is known as runtime polymorphism . so we can get polymorphism through inheritance.
 
 ---------------------Abstraction--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+	Abstraction is 
 
 
  
